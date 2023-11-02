@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DependencyInjectionPrinciple/DependencyInjectionPrinciple.iml" filepath="$PROJECT_DIR$/DependencyInjectionPrinciple/DependencyInjectionPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" filepath="$PROJECT_DIR$/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LowLevelDesign.iml" filepath="$PROJECT_DIR$/.idea/LowLevelDesign.iml" />
