@@ -3,10 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DependencyInjectionPrinciple/DependencyInjectionPrinciple.iml" filepath="$PROJECT_DIR$/DependencyInjectionPrinciple/DependencyInjectionPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" filepath="$PROJECT_DIR$/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryManagementSystem/LibraryManagementSystem.iml" filepath="$PROJECT_DIR$/LibraryManagementSystem/LibraryManagementSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LowLevelDesign.iml" filepath="$PROJECT_DIR$/.idea/LowLevelDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" filepath="$PROJECT_DIR$/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/factorydesign/factorydesign.iml" filepath="$PROJECT_DIR$/DesignPatterns/factorydesign/factorydesign.iml" />
     </modules>
   </component>
 </project>
