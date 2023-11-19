@@ -4,7 +4,7 @@ import book.BookCopy;
 public class NameBasedBookSearcher implements BookSearcher {
     private final String bookName;
     public NameBasedBookSearcher(String bookName){
-        this.bookName = bookName
+        this.bookName = bookName;
     }
 
     @Override

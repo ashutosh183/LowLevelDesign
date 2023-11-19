@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChessBoard/ChessBoard.iml" filepath="$PROJECT_DIR$/ChessBoard/ChessBoard.iml" />
       <module fileurl="file://$PROJECT_DIR$/DependencyInjectionPrinciple/DependencyInjectionPrinciple.iml" filepath="$PROJECT_DIR$/DependencyInjectionPrinciple/DependencyInjectionPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" filepath="$PROJECT_DIR$/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" />
@@ -9,7 +10,11 @@
       <module fileurl="file://$PROJECT_DIR$/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LowLevelDesign.iml" filepath="$PROJECT_DIR$/.idea/LowLevelDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" filepath="$PROJECT_DIR$/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/factory_design_pattern/factory_design_pattern.iml" filepath="$PROJECT_DIR$/DesignPatterns/factory_design_pattern/factory_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/factorydesign/factorydesign.iml" filepath="$PROJECT_DIR$/DesignPatterns/factorydesign/factorydesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/factory_design_pattern/src/src.iml" filepath="$PROJECT_DIR$/DesignPatterns/factory_design_pattern/src/src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/strategy_pattern/strategy_pattern.iml" filepath="$PROJECT_DIR$/DesignPatterns/strategy_pattern/strategy_pattern.iml" />
     </modules>
   </component>
 </project>

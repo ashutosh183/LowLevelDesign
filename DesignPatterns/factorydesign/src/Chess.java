@@ -6,3 +6,4 @@ public class Chess {
 }
 
 //Dependency Injection
+//Defer the usage of new keyword
